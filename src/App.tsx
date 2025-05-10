@@ -1,4 +1,4 @@
-import { Heading } from "./components/Heading";
+import { Heading } from "./components/Header";
 import "./styles/theme.css";
 import "./styles/global.css";
 function App() {
