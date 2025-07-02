@@ -16,3 +16,6 @@
   filter: brightness(80%);
   transition: all 0.1s ease;
 }
+.navContainer a svg {
+  color: var(--text-over-primary);
+}
